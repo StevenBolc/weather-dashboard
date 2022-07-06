@@ -1,0 +1,15 @@
+.container h1 {
+    background-image: linear-gradient(to right, rgb(60, 96, 214), rgb(75, 20, 146));
+    padding-top: 5px;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.row h3 {
+    font-weight: bold;
+}
+
+.container {
+    background-image: linear-gradient(to left, rgb(238, 194, 98), rgb(176, 201, 230));
+    height: 920px;
+}
